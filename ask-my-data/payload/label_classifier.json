@@ -1,0 +1,18 @@
+{
+  "model_id": "google/flan-t5-xxl",
+  "input": "",
+  "parameters": {
+    "decoding_method": "greedy",
+    "max_new_tokens": 20,
+    "min_new_tokens": 0,
+    "stop_sequences": ["Input:"],
+    "repetition_penalty": 1
+  },
+  "moderations": {
+    "hap": {
+      "input": { "enabled": true, "threshold": 0.75 },
+      "output": { "enabled": true, "threshold": 0.75 }
+    }
+  },
+  "project_id": ""
+}

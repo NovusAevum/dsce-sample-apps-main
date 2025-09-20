@@ -1,0 +1,18 @@
+{
+  "model_id": "meta-llama/llama-2-13b-chat",
+  "input": "",
+  "parameters": {
+    "decoding_method": "greedy",
+    "max_new_tokens": 2000,
+    "min_new_tokens": 0,
+    "stop_sequences": [],
+    "repetition_penalty": 1
+  },
+  "moderations": {
+    "hap": {
+      "input": { "enabled": true, "threshold": 0.75 },
+      "output": { "enabled": true, "threshold": 0.75 }
+    }
+  },
+  "project_id": ""
+}
