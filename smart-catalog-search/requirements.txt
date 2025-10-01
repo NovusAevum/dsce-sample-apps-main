@@ -1,13 +1,13 @@
-dash==2.11.1
+dash==2.15.0
 dash_bootstrap_components==1.4.1
 ibm-cloud-sdk-core==3.16.7
 dash_daq==0.5.0
 jproperties==2.1.1
-markdownify==0.11.6
+markdownify==0.14.1
 pandas==2.0.3
 numpy==1.23.5
 python-dotenv==1.0.0
-requests==2.31.0
+requests==2.32.4
 sql-formatter==0.6.2
 segment-analytics-python==2.2.3
 bcrypt==4.1.2
