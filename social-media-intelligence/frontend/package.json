@@ -61,6 +61,6 @@
   },
   "devDependencies": {
     "faker": "^5.5.3",
-    "react-router-dom": "^6.21.3"
+    "react-router-dom": "^6.30.3"
   }
 }
