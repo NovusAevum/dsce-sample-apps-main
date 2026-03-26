@@ -6,5 +6,5 @@ markdownify==0.11.6
 numpy
 pandas
 python-dotenv==1.0.0
-requests==2.31.0
+requests==2.33.0
 sql-formatter==0.6.2
